@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LiaPet/covid-tracker-react/static/css/main.d40bd9c3.chunk.css",
+    "main.js": "/LiaPet/covid-tracker-react/static/js/main.17bc5799.chunk.js",
+    "main.js.map": "/LiaPet/covid-tracker-react/static/js/main.17bc5799.chunk.js.map",
+    "runtime-main.js": "/LiaPet/covid-tracker-react/static/js/runtime-main.ad4dc414.js",
+    "runtime-main.js.map": "/LiaPet/covid-tracker-react/static/js/runtime-main.ad4dc414.js.map",
+    "static/css/2.b4ebbe46.chunk.css": "/LiaPet/covid-tracker-react/static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.ddca3937.chunk.js": "/LiaPet/covid-tracker-react/static/js/2.ddca3937.chunk.js",
+    "static/js/2.ddca3937.chunk.js.map": "/LiaPet/covid-tracker-react/static/js/2.ddca3937.chunk.js.map",
+    "index.html": "/LiaPet/covid-tracker-react/index.html",
+    "static/css/2.b4ebbe46.chunk.css.map": "/LiaPet/covid-tracker-react/static/css/2.b4ebbe46.chunk.css.map",
+    "static/css/main.d40bd9c3.chunk.css.map": "/LiaPet/covid-tracker-react/static/css/main.d40bd9c3.chunk.css.map",
+    "static/js/2.ddca3937.chunk.js.LICENSE.txt": "/LiaPet/covid-tracker-react/static/js/2.ddca3937.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad4dc414.js",
+    "static/css/2.b4ebbe46.chunk.css",
+    "static/js/2.ddca3937.chunk.js",
+    "static/css/main.d40bd9c3.chunk.css",
+    "static/js/main.17bc5799.chunk.js"
+  ]
+}
